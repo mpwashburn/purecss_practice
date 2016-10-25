@@ -16,13 +16,13 @@
 <body>
 <!-- Horizontal Menu/Navigation -->
   <div class="custom-wrapper pure-g" id="menu">
-    <div class="pure-u-1 pure-u-md-1-3">
+    <div class="pure-u-1 pure-u-md-1-3 1-box">
         <div class="pure-menu">
-            <a href="#" class="pure-menu-heading custom-brand"><img class=" text-left img-responsive" src="http://placehold.it/50x50"></a>
+            <a href="#" class="pure-menu-heading custom-brand"><img class=" text-left pure-img" src="http://placehold.it/50x50"></a>
             <a href="#" class="custom-toggle" id="toggle"><s class="bar"></s><s class="bar"></s></a>
         </div>
     </div>
-    <div class="pure-u-1 pure-u-md-1-3">
+    <div class="pure-u-1 pure-u-md-1-3 1-box">
         <div class="pure-menu pure-menu-horizontal custom-menu-2 custom-can-transform">
             <ul class="pure-menu-list">
                 <li class="pure-menu-item"><a href="https://www.facebook.com/ysnglobal/" onclick="target='newwindow'"><i class="fa fa-fw fa-facebook"></i></a></li>
@@ -31,7 +31,7 @@
             </ul>
         </div>
     </div>
-    <div class="pure-u-1 pure-u-md-1-3">
+    <div class="pure-u-1 pure-u-md-1-3 1-box">
         <div class="pure-menu pure-menu-horizontal custom-menu-3 custom-can-transform">
             <ul class="pure-menu-list">
                 <li class="pure-menu-item"><a href="#" class="pure-menu-link">Home</a></li>
@@ -42,7 +42,14 @@
     </div>
 </div>
 
-
+<div class="main-wrapper pure-g">
+    <div class="pure-u-1 pure-u-md-4-5 1-box">
+        <p>Hello World</p>
+    </div>
+    <div class="pure-u-1 pure-u-md-1-5 1-box">
+        <p>Hello Sidebar world</p>
+    </div>
+</div>
 
 
 
@@ -63,13 +70,6 @@
       </div>
     </div>
   </div> -->
-
-
-<div class="pure-g">
-    <div class="pure-u-1-3"><p>Thirds</p></div>
-    <div class="pure-u-1-3"><p>Thirds</p></div>
-    <div class="pure-u-1-3"><p>Thirds</p></div>
-</div>
 
 
 
